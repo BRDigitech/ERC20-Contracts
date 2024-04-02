@@ -1,0 +1,29 @@
+SHIF		https://explorer.solana.com/address/8tawTzYXR49166gebbq2mYvnkbkbNHV3hoBiFwq1GSRD/transfers
+
+FlaPepe	https://explorer.solana.com/address/B5GX6EaL9JQuY6vVqFAx7rzYeUy7rLoJ4eDu8Hm71fx7?cluster=devnet	
+
+James		https://explorer.solana.com/address/3kLYwaE7rqcQgaV7xqpVX2AVbJKRHrthRyrs3tgft4qw
+
+Pigeonwifboots		"https://explorer.solana.com/address/6JaYNCjX1nCxP3jA32cqJ7KB5gPxihcWkRaPYpni4yTi
+
+SOLsniffer	https://explorer.solana.com/address/2hbJ4H9BqGhEL4jWMiaqcsSUBzwm8ETjUsqghTd73KMy/metadata?cluster=devnet	https://rugcheck.xyz/tokens/G6o1ncUg59EDBMkyhGHAXHM1CicdpqhM1GAZSpSkHwau
+
+MAGA Coin		"https://explorer.solana.com/address/AzQfRt3aHE2Y25wEiaWFsGbU2tDP2yyWGF9GQjxx3Znv/transfers
+
+Brodie	https://explorer.solana.com/address/7dL3ZnaJCsjRDsitSjxAxaY5C35m7jtzoqXxNRXdmuKt
+
+Sol Mumies	https://explorer.solana.com/address/gaPrHFcNYpeqjhwZSDNrUETMZ3dNmB7wwb69J7TzJW9?cluster=devnet	"imageUri https://arweave.net/uxr-WV4Fym5ebujfCv4eTMG640jOHllYWDWW-hPd_Io
+
+OREO		minted tokens ( 56MGPnoaJ97i8inijogcsktyFTCnwGLqokAYX7hSwBcm )"
+
+Knockoff	https://explorer.solana.com/address/5DZ37VE9ApAt2CE8PgMfWCDF4H928KUUqxug3HEkwrRq"
+
+Silver Surfer Solana	minted tokens ( DDZSSr7ruxakmWUGg4C9rAzojGBLWwuSHxQzNK28JTN6 )"	"imageUri https://arweave.net/ymuUWOgRqYeUlWcnekS6IyEHSaE3WWzHrRNGdJbh7u8Successfully minted tokens ( 4V2Yvav9XF5gP4HmZBWwFDS6RFXeHydzMdr8DuqMKWLg )https://explorer.solana.com/address/4V2Yvav9XF5gP4HmZBWwFDS6RFXeHydzMdr8DuqMKWLg"
+
+dogwifyamaka		"imageUri https://arweave.net/PvgnqRmx4-qpZr1cJlaFZDWoB4j4sI4bFWYS6y-WHDc uri https://arweave.net/6RH_tLq-VqazNs3xbMlsTLTJT7VKTsfXm8uKPsdaKmQ Successfully minted tokens ( AAuhWxN4VJmhZY5vUDCug5epCXQ1Nxd8J9fnptGTaV1U ) https://explorer.solana.com/address/AAuhWxN4VJmhZY5vUDCug5epCXQ1Nxd8J9fnptGTaV1U
+
+Cody		"imageUri https://arweave.net/-zxnrrUPXGEPug6U8F46CYUBcCb_0Xa-REFPG6W7Xhk uri https://arweave.net/Z5Sm9W6UC2bFEEyn3_mYVRaQxcMZS_2yVeY29CkZF7A Successfully minted tokens ( H1Riz6z8FwAVYVUr6n7uBacRRbL6m1HPx3i2cWBZ2t7S ) https://explorer.solana.com/address/H1Riz6z8FwAVYVUr6n7uBacRRbL6m1HPx3i2cWBZ2t7S"
+
+Crooks		"Token with new logo  imageUri https://arweave.net/c9oYSwW1fs_BFaesM69QfwvwEjbKHk7CPbHJTDqid0s uri https://arweave.net/qiT5RoXLJumChNg4qE8bEMxHhQfJDZv9Mvjq9IId9oA Successfully minted tokens ( 5RroJ1zrLcX25J7tmwRv5J8FjUFnBWwLnYzyBNvDHrEF )
+
+battle cat		https://explorer.solana.com/address/7JPqXTBM4ZP1xom6KSUJx74tFuMbSjuArdiqEjMmbTbw/metadata
