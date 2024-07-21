@@ -1,5 +1,9 @@
 /**
-https://etherscan.io/address/0x475047b17aefe93ba9aef423cf336253e1929208#readContract
+
+https://www.dextools.io/app/en/ether/pair-explorer/0xb3c50bc5e58e80364cba10043c0da764adf26a9c?t=1721593938992
+
+
+https://etherscan.io/address/0x6f6707c06a50fA993FB8125a8eC6541d6b113680#readContract
 
 
 https://testnet.bscscan.com/address/0x3ed9f2bdb36b4007b714a5af1706dcb3c6af20f5#code
